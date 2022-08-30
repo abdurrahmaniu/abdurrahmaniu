@@ -66,7 +66,7 @@
 <p><a href="https://www.buymeacoffee.com/https://www.facebook.com/shantochele.rahman.1"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.facebook.com/shantochele.rahman.1" /></a><a href="https://ko-fi.com/Md Abdur Rahman">
 <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Md Abdur Rahman" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdurrahmaniu&show_icons=true&locale=en&layout=compact" alt="abdurrahmaniu" /></p>
+<p><img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdurrahmaniu&show_icons=true&locale=en&layout=compact" alt="abdurrahmaniu" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdurrahmaniu&show_icons=true&locale=en" alt="abdurrahmaniu" /></p>
 
