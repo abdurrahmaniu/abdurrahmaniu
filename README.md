@@ -1,12 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md. Abdur Rahman</h1>
 <h3 align="center">A passionate Full Stack Developer from Bangladesh</h3>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdurrahmaniu&label=Profile%20views&color=0e75b6&style=flat" alt="abdurrahmaniu" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=abdurrahmaniu" alt="abdurrahmaniu" /></a></p>
-<p align="left"><a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
+<br>
 
 - 🔭 I’m currently working on [E-commerce Website](https://abdurrahmaniu.github.io/E-coomerce-Website/)
 
@@ -20,7 +15,7 @@
 
 - 📄 Know about my experiences [https://abdurrahmaniu.github.io/biodata.io/](https://abdurrahmaniu.github.io/biodata.io/)
 
-
+<br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
@@ -71,7 +66,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdurrahmaniu&show_icons=true&locale=en" alt="abdurrahmaniu" /></p>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdurrahmaniu&" alt="abdurrahmaniu" /></p>
-<br>
+
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.facebook.com/shantochele.rahman.1"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.facebook.com/shantochele.rahman.1" /></a><a href="https://ko-fi.com/Md Abdur Rahman">
 <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Md Abdur Rahman" /></a></p>
