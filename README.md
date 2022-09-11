@@ -3,7 +3,7 @@
 
 <br>
 
-- 🔭 I’m currently working as a Software Testing (Trainee),iZoom Institute of IT in Dhaka.
+- 🔭 I’m currently working as a Software Testing (Trainee), iZoom Institute of IT in Dhaka.
 
 - 🌱 I’m currently learning **Java Fullstack Development**
 
