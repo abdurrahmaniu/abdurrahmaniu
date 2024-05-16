@@ -3,7 +3,7 @@
 
 <br>
 
-- 🔭 I’m currently working as a SQA Engineer, Skifftech Technologies.
+- 🔭 I’m currently working as a SEO Executive, Choicebird International Ltd.
 
 - 🌱 I’m currently learning **Java Fullstack Development**
 
